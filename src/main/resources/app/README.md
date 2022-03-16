@@ -1,4 +1,6 @@
-# Privacy Policy [APP-NAME] from [COMPANY-NAME]
+# Privacy Policy, Term And Condition
+
+## Privacy Policy [APP-NAME] from [COMPANY-NAME]
 
 [COMPANY-NAME] built the [APP-NAME] app as an Ad Supported app. This SERVICE is provided by [COMPANY-NAME] at no cost and is intended for use as is.
 
@@ -88,7 +90,7 @@ Another part of our priority is adding protection for children while using the i
 
 [COMPANY-NAME] does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
-# Terms & Conditions
+## Terms & Conditions
 
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to [COMPANY-NAME].
 
