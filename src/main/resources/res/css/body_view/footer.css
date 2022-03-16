@@ -1,0 +1,9 @@
+div.footer-container {
+    padding: 16px;
+    background-color: black;
+}
+
+div.footer-container p {
+    text-align: center;
+    color: white;
+}

@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy [APP-NAME] from [COMPANY-NAME]
 
 [COMPANY-NAME] built the [APP-NAME] app as an Ad Supported app. This SERVICE is provided by [COMPANY-NAME] at no cost and is intended for use as is.
 
@@ -51,13 +51,6 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 ## Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-
-## Third Party Privacy Policies
-
-[COMPANY-NAME]'s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
-
-You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
 
 ## CCPA Privacy Rights (Do Not Sell My Personal Information)
 
