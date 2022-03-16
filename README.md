@@ -2,6 +2,7 @@
 
 ## About This Project
 [![Android CI](https://github.com/frogobox/frogo-kick-start-library/actions/workflows/android-ci.yml/badge.svg)](https://github.com/frogobox/frogo-kick-start-library/actions/workflows/android-ci.yml)
+[![Scan with Detekt](https://github.com/amirisback/remote-data-source/actions/workflows/detekt.yml/badge.svg)](https://github.com/amirisback/remote-data-source/actions/workflows/detekt.yml)
 - Remote Data Source
 - Using GitHub Action For CI / CD
 - Privacy Policy [Click Here](https://github.com/frogobox/frogo-kick-start-library/blob/master/PRIVACY-POLICY.md)
